@@ -1,3 +1,10 @@
+# How to use:
+# Set executable permissions on the script: 
+# chmod +x enum_smb.sh
+# Be sure to add the Ip address, Username, & Password
+# To execute use:
+# ./enum_smb.sh
+
 #!/bin/bash
 
 TARGET="<ip address>"
